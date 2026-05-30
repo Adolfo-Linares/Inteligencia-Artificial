@@ -1,4 +1,5 @@
 # IA
+- Algunos documentos no abren en el menu, deben abrirse en la parte de arriba donde estan los archivos
 
 ## UNIDAD
 
