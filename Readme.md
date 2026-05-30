@@ -2,21 +2,19 @@
 
 ## UNIDAD
 
-- [Evaluación Inicial IA](./ExamenDiagnostico.odt)
-- [Búsqueda Inteligente A* - Parte 1](./Ejercicio1A.odt)
-- [Búsqueda Inteligente A* - Parte 2](./Ejercicio2A.odt)
-- [Análisis de Rutas con A*](./EvaluacionA.odt)
-- [Resolución de Problemas](./Problemas.odt)
-- [Predicción México Campeón Mundial](./ModeloMéxicoCampeónDelMundo.odt)
-- [EDA: Juego del Muñeco y Pelotas](./AnalisisExploratoriodeDatos(EDA)_JuegodelMuñecoPelotas.odt)
-- [Reconocimiento Numérico con EDA](./EDA_ReconocimientoNumeros123.odt)
-- [Introducción a Convoluciones](./EjercicioConvolusion.odt)
-- [Pruebas Experimentales CNN](./10PruebasCNN.odt)
-- [Primer Contacto con Python](./Practica0.py)
-- [Red Neuronal Recurrente Personal](./ActividadRNNBasicaVanilla.odt)
-- [Modelado Secuencial Inteligente](./Actividad2.odt)
-- [Fundamentos de Transformers](./Actividad Manual - Transformers.odt)
-- [Transformers Avanzados](./ActividadTransformersParte2.odt)
+- [10PruebasCNN](./10PruebasCNN.odt)
+- [Actividad Manual - Transformers](./Actividad%20Manual%20-%20Transformers.odt)
+- [Actividad2](./Actividad2.odt)
+- [ActividadRNNBasicaVanilla](./ActividadRNNBasicaVanilla.odt)
+- [ActividadTransformersParte2](./ActividadTransformersParte2.odt)
+- [AnalisisExploratoriodeDatos(EDA)_Juegodel...](./AnalisisExploratoriodeDatos(EDA)_Juegodel...)
+- [EDA_ReconocimientoNumeros123](./EDA_ReconocimientoNumeros123.odt)
+- [EjercicioConvolusion](./EjercicioConvolusion.odt)
+- [ElEnigmaDelOraculoSecuencial](./ElEnigmaDelOraculoSecuencial.odt)
+- [ModeloMéxicoCampeónDelMundo](./ModeloMéxicoCampeónDelMundo.odt)
+- [Practica0](./Practica0.py)
+- [Problemas](./Problemas.odt)
+- [TensorFlowKeras](./TensorFlowKeras.py)
 
 ## PROYECTOS 2026
 
