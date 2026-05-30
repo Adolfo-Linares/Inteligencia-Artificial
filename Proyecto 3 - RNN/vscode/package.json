@@ -1,0 +1,30 @@
+{
+    "name": "rnn-flask-autocomplete",
+    "displayName": "RNN Autocompletado",
+    "version": "1.0.0",
+    "publisher": "adolfo",
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "main": "./extension.js",
+    "activationEvents": [
+        "onLanguage:c",
+        "onLanguage:cpp",
+        "onCommand:rnnKeras.complete"
+    ],
+    "contributes": {
+        "commands": [
+            {
+                "command": "rnnKeras.complete",
+                "title": "RNN: Autocompletar Linea actual"
+            }
+        ],
+        "keybindings": [
+            {
+                "command": "rnnKeras.complete",
+                "key": "tab",
+                "when": "editorTextFocus && (editorLangId == c || editorLangId == cpp)"
+            }
+        ]
+    }
+}
